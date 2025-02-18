@@ -1,3 +1,10 @@
 body {
     background-color: aquamarine;
 }
+button {
+    color:brown;
+    background-color: orange;
+    padding: 10px;
+    font-size: medium;
+    border-radius: 25%;
+}
